@@ -14,8 +14,9 @@
 </h1>
 
 <a align="center">
-  <img align="right" top="500" height="275" width="360" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRvMmRobXg5eWNkMjY4ZTV5NzcwMGxpYm80cWI5N3J0bmRieXppeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VF0WIRjfwvFERopBFY/giphy.gif">
+  <img align="right" top="500" height="290" width="380" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRvMmRobXg5eWNkMjY4ZTV5NzcwMGxpYm80cWI5N3J0bmRieXppeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VF0WIRjfwvFERopBFY/giphy.gif">
 </a>
+</br>
 
 - 🎓 Técnico en Desarrollo de Software.
   
