@@ -37,7 +37,7 @@
 </br>
 
 <details>
-  <summary><h3>Estadísticas de GitHub:</h3><img</summary>
+  <summary><h3>Estadísticas de GitHub:</h3></summary>
   <br>
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=DavidDeVito2001&theme=shades-of-purple&show_icons=true&count_private=true&hide_border=true" alt="David's GitHub Stats" height="250" />
