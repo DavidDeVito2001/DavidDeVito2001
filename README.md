@@ -37,7 +37,7 @@
 </br>
 
 <details>
-  <summary><h3>Estadísticas de GitHub:</h3><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NlMm16NzdhYWo2cGNvZmwwaTk5YTYxZzdxMDYyZHQ1YWxqbTh4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gg0sAafx4kZPrJff3K/giphy.gif" alt="click" width="40" /></summary>
+  <summary><h3>Estadísticas de GitHub:</h3><img</summary>
   <br>
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=DavidDeVito2001&theme=shades-of-purple&show_icons=true&count_private=true&hide_border=true" alt="David's GitHub Stats" height="250" />
